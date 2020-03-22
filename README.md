@@ -5,9 +5,9 @@ that the computer always plays the best move.
 
 ##Gameplay
 
-The player is 'X'.
-The computer is 'O'.
-Empty positions are marked with '_'.
+The player is 'X'.  
+The computer is 'O'.  
+Empty positions are marked with '_'.  
 'X', the player goes first by choosing a position from 1-9.
 The choices on the board correspond to the position of the key on the number pad.
 i.e. If you enter '1' you will place a piece on the bottom left, '7' on the top left, '9' 
