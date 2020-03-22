@@ -13,10 +13,9 @@ The choices on the board correspond to the position of the key on the number pad
 i.e. If you enter '1' you will place a piece on the bottom left, '7' on the top left, '9' 
 on the top right etc. (shown below)
 
-7 | 8 | 9
-4 | 5 | 6
-1 | 2 | 3
+7 | 8 | 9  
+4 | 5 | 6  
+1 | 2 | 3  
 
-'O', the computer will use the minimax algorithm to select the best position and make the next move.
-
-The player and computer will keep alternating turns until a winner emerges or the game is drawn
+'O', the computer will use the minimax algorithm to select the best position and make the next move.  
+The player and computer will keep alternating turns until a winner emerges or the game is drawn.
