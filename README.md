@@ -25,4 +25,3 @@ Alternatively, to compile from the terminal you can complete the following steps
     3. To run the compiled code, type:  
         java GUI  
         
-        
