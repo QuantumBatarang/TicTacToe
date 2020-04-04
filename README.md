@@ -16,3 +16,13 @@ The player and computer will keep alternating turns until a winner emerges or th
 In order to run the game, go this github repo https://github.com/QuantumBatarang/TicTacToe.git and on the top right  
 click on "Clone or Download" and then "Download ZIP". Unzip the package once it is downloaded and  open it in any  
 IDE that can run Java code. Set up the IDE to run the GUI.java file located in the src folder.  
+
+Alternatively, to compile from the terminal you can complete the following steps.
+    1. Navigate to the "src" folder in the project.
+        cd TicTacToe/src/
+    2. To compile the code, execute the following command:
+        javac GUI.java
+    3. To run the compiled code, type:
+        java GUI  
+        
+        
