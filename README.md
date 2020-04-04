@@ -13,10 +13,6 @@ The player can click reset at any time to reset the game.
 'O', the computer will use the minimax algorithm to select the best position and make the next move.  
 The player and computer will keep alternating turns until a winner emerges or the game is drawn.
 
-In order to run the game. Do the following:
-
-~~cmd
-cd <Enter the path to the directory where you would liek to download the game>
-git clone https://github.com/QuantumBatarang/TicTacToe.git
-~~
-This
+In order to run the game, go this github repo https://github.com/QuantumBatarang/TicTacToe.git and on the top right  
+click on "Clone or Download" and then "Download ZIP". Unzip the package once it is downloaded and  open it in any  
+IDE that can run Java code. Set up the IDE to run the GUI.java file located in the src folder.  
