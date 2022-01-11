@@ -1,4 +1,4 @@
-# TicTacToe
+# TicTacToe  
 
 A Tic Tac Toe game where the computer never loses. It uses the minimax algorithm to ensure 
 that the computer always plays the best move.
